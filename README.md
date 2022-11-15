@@ -1,3 +1,3 @@
 # GPT-2_JOKES_GENERATION
 
-topic modelling visualization: topic_mod_result4.html
+topic modelling visualization: https://susannapinotti.github.io/topic_modelling_visualisation.html
